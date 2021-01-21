@@ -1,6 +1,6 @@
 <h2> Hello there! <img src="https://media0.giphy.com/media/hrdMvhLecxHti6Uy3S/giphy.gif?cid=ecf05e47l76baws7c079789hhshomexllb7rf3qox0mqfw9e&rid=giphy.gif" width="50"></h2>
 
-<p>My name is Jose Alberto Murgado and currently I'm a researcher at the <a href="https://www.ujaen.es/en">Universidad de Jaén</a> in which we focus our efforts in the study of the Natural Language Procesing (NLP) </p>
+<p>My name is Jose Alberto Murgado and currently I'm a researcher at the <a href="https://www.ujaen.es/en">Universidad de Jaén</a> in which we focus our efforts in the study of the Natural Language Processing (NLP) </p>
 
 [![Twitter: murgadoAlberto](https://img.shields.io/twitter/follow/murgadoAlberto?style=social)](https://twitter.com/murgadoAlberto)
 [![Linkedin: murgado](https://img.shields.io/badge/-murgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mesa-murgado/)](https://www.linkedin.com/in/murgado/)
