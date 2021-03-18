@@ -11,7 +11,7 @@
 </ul>
 
 ### Follow me on my socials
-[![Twitter: murgadoAlberto](https://img.shields.io/twitter/follow/murgadoAlberto?style=social)](https://twitter.com/murgadoAlberto)
+[![Twitter: murgado_](https://img.shields.io/twitter/follow/murgadoAlberto?style=social)](https://twitter.com/murgadoAlberto)
 [![Linkedin: murgado](https://img.shields.io/badge/-murgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mesa-murgado/)](https://www.linkedin.com/in/mesa-murgado/)
 [![GitHub Murgado](https://img.shields.io/github/followers/murgado?label=follow&style=social)](https://github.com/murgado)
 
